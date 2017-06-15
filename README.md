@@ -3,10 +3,10 @@
 WP Contextual Help
 ==================
 
-Contributors: kevinlangleyjr, voceplatforms, Mte90  
+Contributors: kevinlangleyjr, Mte90  
 Tags: contextual, help  
 Requires at least: 3.3  
-Tested up to: 4.1  
+Tested up to: 4.8  
 Stable tag: 1.0.2  
 License: GPLv2 or later  
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -35,7 +35,7 @@ Add the following to your composer.json required dependencies
 {
     // ...
     "require": {
-        "voceconnect/wp-contextual-help": "~0.0.1"	// Most recent tagged version
+        "kevinlangleyjr/wp-contextual-help": "~0.0.1"	// Most recent tagged version
     },
     // ...
 }
@@ -109,4 +109,4 @@ add_action( 'init', function(){
 
 ## Changelog
 
-Please refer to full changelog at https://github.com/voceconnect/wp-contextual-help/releases.
+Please refer to full changelog at https://github.com/kevinlangleyjr/wp-contextual-help/releases.
