@@ -1,7 +1,7 @@
 {
     "name": "kevinlangleyjr/wp-contextual-help",
     "description": "WordPress plugin that allows a developer to easily extend the contextual help dropdown content area in WordPress",
-    "license": "GPLv2+",
+    "license": "GPL-2.0-or-later",
     "authors": [
         {
             "name": "Kevin Langley",
