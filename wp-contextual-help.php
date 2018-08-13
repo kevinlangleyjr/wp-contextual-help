@@ -138,6 +138,5 @@ if( !class_exists( 'WP_Contextual_Help' ) ){
 			return false;
 		}
 	}
-	add_action( 'init', array( 'WP_Contextual_Help', 'init' ), 99 );
 
 }
