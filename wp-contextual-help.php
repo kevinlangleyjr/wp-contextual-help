@@ -7,6 +7,9 @@ Author: kevinlangleyjr
 Plugin URI: http://kevinlangleyjr.com
 */
 
+//  Exit if accessed directly.
+defined( 'ABSPATH' ) || exit;
+
 if( !class_exists( 'WP_Contextual_Help' ) ){
 
 	class WP_Contextual_Help {
